@@ -1,4 +1,4 @@
-Enter the following commands in terminal
+Enter the following commands in terminal (for ubuntu and debian)
 
 sudo apt install apt-transport-https curl
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
